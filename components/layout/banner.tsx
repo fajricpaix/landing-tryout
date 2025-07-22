@@ -40,8 +40,9 @@ export default function Banners() {
               sizes='100vw'
               alt="CPNS Preparation"
               className="w-full aspect-square overflow-hidden rounded-xl object-contain"
+              priority
             />
-          </figure>
+            </figure>
         </div>
       </div>
     </div>
