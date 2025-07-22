@@ -1,10 +1,7 @@
-import CardComponents from "@/components/content/card"
 import Banners from "@/components/layout/banner"
 import Footer from "@/components/layout/footer"
 import Header from "@/components/layout/header"
 import TermsComponents from "@/components/layout/terms"
-import Image from "next/image"
-import Link from "next/link"
 
 
 export default function TermPage() {
