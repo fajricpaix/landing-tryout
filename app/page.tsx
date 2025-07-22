@@ -1,4 +1,4 @@
-import CardComponents from "@/components/content/Card"
+import CardComponents from "@/components/content/card"
 import Image from "next/image"
 import Link from "next/link"
 
