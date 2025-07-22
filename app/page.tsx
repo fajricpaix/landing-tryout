@@ -21,7 +21,7 @@ export default function Page() {
 
       <main className="flex-1">
         {/* Banner */}
-        <section className="w-full py-8 md:py-24 lg:py-32 xl:py-24 bg-background">
+        <section className="w-full py-8 md:py-24 lg:py-32 xl:py-24 bg-[#e5e3ff]">
           <div className="container px-4 md:px-6 mx-auto">
             <div className="grid gap-4 lg:gap-12 lg:grid-cols-[1fr_400px] xl:grid-cols-[1fr_600px]">
               <div className="flex flex-col justify-center space-y-4">
