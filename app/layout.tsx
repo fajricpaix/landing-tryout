@@ -14,6 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/webp" href="/logo.webp" />
+      </head>
       <body>{children}</body>
     </html>
   )
