@@ -15,7 +15,7 @@ export default function Banners() {
               Platform persiapan CPNS terlengkap dengan ribuan soal latihan, simulasi ujian, dan bimbingan dari mentor berpengalaman. Tingkatkan peluang lolos seleksi CPNS hingga 90%.
             </p>
             <figure className="w-32 md:w-44 overflow-hidden rounded-full">
-              <Link href="#" className="max-w-[500px]">
+              <Link target="_blank" href="https://play.google.com/store/apps/details?id=com.candramawa.try_out" className="max-w-[500px]">
                 <Image
                   src="/playstore.webp"
                   width='0'
